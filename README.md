@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anushri Anil Kulkarni from Bangalore
-- 👀 I’m interested in Baking and Web Development
+- 👀 I’m interested in Web Development and Baking
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me Anuscvk@gmail.com
 
